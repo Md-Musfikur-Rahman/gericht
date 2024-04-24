@@ -57,4 +57,4 @@ For inquiries, feedback, or support, please contact the project maintainer(s) at
 ---
 
 **Screenshot**:
-![Gericht Landing Page Screenshot](Restaurant.png)
+![Gericht Landing Page Screenshot](Restaurant.jpeg)
